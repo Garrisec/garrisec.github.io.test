@@ -16,7 +16,7 @@ timezone:
 
 title: Garrisec # the main title
 
-tagline: Hey. Im a self-taught student and this is my blog where I post things related to cybersecurity. Here you wll find my cybersecurity documentation and related posts. # it will display as the subtitle
+tagline: A blog about cybersecurity. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal blog about cybersecurity.
