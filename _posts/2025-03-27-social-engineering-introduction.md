@@ -9,7 +9,7 @@ tags: [psychology]
 
 ## Introduction
 
-Social engineering is the process by which an attacker uses their victim's emotions to get them to do what they want. To do this, they use mental triggers to exploit emotions and control the victim, such as using authority to get a company employee to do something quickly without question.
+Social engineering is the process by which an attacker uses their victim's emotions to get them to do what they want. To do this, they use [mental triggers](https://verocontents.com.br/en/blog/what-are-mental-triggers-and-how-to-use-them-2/) to exploit emotions and control the victim, such as using authority to get a company employee to do something quickly without question.
 
 ## Attack Process
 
