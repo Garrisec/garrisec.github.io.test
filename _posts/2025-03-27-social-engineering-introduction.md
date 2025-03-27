@@ -2,7 +2,7 @@
 title: "Social Engineering - Introduction"  
 date: 2024-03-30        
 categories: [Social Engineering]  
-tags: [psychology]   
+tags: [psychology]
 ---
 
 # Social Engineering
@@ -17,7 +17,7 @@ I've created an image that tries to illustrate the process of a social engineeri
 
 > If you're viewing it on your cell phone, zoom in or turn it sideways to see the image better.
 
-![Social Engineering Process](/assets/social-engineering-process.drawio.png)
+![Social Engineering Process](assets/social-engineering-process.png)
 
 ## How to Avoid
 
