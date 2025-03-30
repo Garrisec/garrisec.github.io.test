@@ -47,7 +47,7 @@ We have the SSH service running on port 22 and another called nagios-nsca runnin
 
 ### HTTP[](#http)
 
-![[Pasted image 20250329215103.png]]
+![[/assets/img/injection-machine-2.png]]
 
 
 Let's start by fuzzing directories to try to find out more about the application.
@@ -121,7 +121,7 @@ The `/upload` directory looks interesting, let's explore it further.
 
 We have a function for uploading files. If we upload an image, we have the option of viewing that photo which is fetched via a parameter called img.
 
-![[Pasted image 20250329214154.png]]
+![[/assets/img/injection-machine-1.png]]
 
 Then, by trying to search for other files such as /etc/passwd, we succeed. To do this, let's use the wget command on the command line.
 
